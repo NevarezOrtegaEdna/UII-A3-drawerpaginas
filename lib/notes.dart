@@ -7,35 +7,32 @@ class NotesPage extends StatefulWidget {
 
 class _NotesPageState extends State<NotesPage> {
   @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      body: Center(
-          child: Column(
-        children: [
-          Container(
-              padding: const EdgeInsets.all(30.0),
-              child: const Text(
-                "Edna Nevarez Ortega ",
-                style: TextStyle(
-                  fontSize: 18,
-                  color: Color(0xff58473c),
-                ),
-              )),
-          Container(
-            margin: EdgeInsets.all(30),
-            decoration: BoxDecoration(
-              color: Color(0XFFA1887F),
-              shape: BoxShape.circle,
-            ),
-            width: 150,
-            height: 150,
-          ),
-          Container(
-            padding: const EdgeInsets.all(0),
-            child: const Text("Circulo Mat. 21308051280395"),
-          )
-        ],
-      )),
-    );
-  }
-}
+  Widget build(BuildContext context) {# p13router0395
+
+A new Flutter project created with FlutLab - https://flutlab.io
+
+## Getting Started
+
+A few resources to get you started if this is your first Flutter project:
+
+- https://flutter.dev/docs/get-started/codelab
+- https://flutter.dev/docs/cookbook
+
+For help getting started with Flutter, view our
+https://flutter.dev/docs, which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+## Getting Started: FlutLab - Flutter Online IDE
+
+- How to use FlutLab? Please, view our https://flutlab.io/docs
+- Join the discussion and conversation on https://flutlab.io/residents
+
+## Ejemplo Drawer: FlutLab - Flutter Online IDE
+
+- Links de Referencia [https://flutlan.io/docs](https://codesinsider.com/flutter-tabbar-tabbarview-example-tutorial/?expand_article=1)
+- Edna Nevarez Ortega a.21308051280395@cbtis128.edu.mx
+
+## Resultado de mi Aplicacion
+
+                       -Dr
+  
